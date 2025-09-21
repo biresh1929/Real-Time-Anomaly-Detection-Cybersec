@@ -1,0 +1,4 @@
+metric,value,timestamp
+CPU,95,1700000000
+Memory,85,1700000010
+CPU,70,1700000020
